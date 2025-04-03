@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sistema de Estoque de Produtos - UNINOVE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+325ae1d3013a50bcfc0200135c7c91afc955cd76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c7d5671d5d81c4a3b229ae37a1152c30bafab46")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sistema de Estoque de Produtos - UNINOVE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sistema de Estoque de Produtos - UNINOVE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
