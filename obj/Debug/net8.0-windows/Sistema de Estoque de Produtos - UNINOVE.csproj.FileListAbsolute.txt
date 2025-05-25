@@ -1,0 +1,30 @@
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.exe
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.deps.json
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.runtimeconfig.json
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.pdb
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.csproj.GenerateResource.cache
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.AssemblyInfoInputs.cache
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.AssemblyInfo.cs
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.csproj.CoreCompileInputs.cache
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.sourcelink.json
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\refint\Sistema de Estoque de Produtos - UNINOVE.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.pdb
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.genruntimeconfig.cache
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\ref\Sistema de Estoque de Produtos - UNINOVE.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.csproj.AssemblyReference.cache
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Oracle.ManagedDataAccess.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\System.DirectoryServices.Protocols.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema .7825E68E.Up2Date
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema_de_Estoque_de_Produtos___UNINOVE.Form2.resources
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\bin\Debug\net8.0-windows\Sistema de Estoque de Produtos - UNINOVE.dll.config
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface.FormCriarCategoria.resources
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface.FormCriarProduto.resources
+D:\Dev\Visual Studio\Sistema_Controle_Estoque_Uninove2025\obj\Debug\net8.0-windows\Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface.FormEditarProduto.resources
