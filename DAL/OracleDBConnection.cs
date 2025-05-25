@@ -17,7 +17,6 @@ public class OracleDbConnection
         }
         catch (OracleException ex)
         {
-            // Log detalhado de erros Oracle
             string errorDetails = $"Code: {ex.ErrorCode}\n" +
                                 $"Message: {ex.Message}\n" +
                                 $"Source: {ex.Source}\n" +
