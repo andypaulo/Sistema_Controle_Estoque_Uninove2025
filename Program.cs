@@ -14,7 +14,7 @@ namespace Sistema_de_Estoque_de_Produtos___UNINOVE
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2());
+            Application.Run(new UserInterface.FormLogin());
         }
     }
 }
