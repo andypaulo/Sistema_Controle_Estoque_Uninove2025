@@ -1,1 +1,18 @@
+# Diretórios de build e cache
+bin/
+obj/
 .vs/
+
+# Arquivos temporários
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.exe
+*.dll
+
+# Configurações locais do Visual Studio
+*.vscode/
+*.dbmdl
+*.json

@@ -44,5 +44,15 @@ namespace Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface
                 MessageBox.Show($"Erro: {ex.Message}");
             }
         }
+
+        private void lblNome_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDesc_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

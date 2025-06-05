@@ -51,7 +51,7 @@ namespace Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface
         }
         private void CarregarDadosProduto()
         {
-            Produto produto = ProdutoDAO.BuscarPorId(idProduto); 
+            Produto produto = ProdutoDAO.BuscarPorId(idProduto);
 
             if (produto != null)
             {
@@ -93,6 +93,16 @@ namespace Sistema_de_Estoque_de_Produtos___UNINOVE.UserInterface
             {
                 MessageBox.Show("Erro ao atualizar: " + ex.Message);
             }
+        }
+
+        private void FormEditarProduto_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtDescricao_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
